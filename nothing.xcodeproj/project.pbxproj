@@ -11,6 +11,7 @@
 		764538022D13B5FF0073A02D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 764538012D13B5FF0073A02D /* ContentView.swift */; };
 		764538042D13B6010073A02D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 764538032D13B6010073A02D /* Assets.xcassets */; };
 		764538072D13B6010073A02D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 764538062D13B6010073A02D /* Preview Assets.xcassets */; };
+		7645380E2D13E5FB0073A02D /* baziSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7645380D2D13E5FB0073A02D /* baziSwiftUI.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		764538012D13B5FF0073A02D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		764538032D13B6010073A02D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		764538062D13B6010073A02D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		7645380D2D13E5FB0073A02D /* baziSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = baziSwiftUI.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				764537FF2D13B5FF0073A02D /* nothingApp.swift */,
 				764538012D13B5FF0073A02D /* ContentView.swift */,
+				7645380D2D13E5FB0073A02D /* baziSwiftUI.swift */,
 				764538032D13B6010073A02D /* Assets.xcassets */,
 				764538052D13B6010073A02D /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7645380E2D13E5FB0073A02D /* baziSwiftUI.swift in Sources */,
 				764538022D13B5FF0073A02D /* ContentView.swift in Sources */,
 				764538002D13B5FF0073A02D /* nothingApp.swift in Sources */,
 			);
